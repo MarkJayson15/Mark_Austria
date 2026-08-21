@@ -1,0 +1,16 @@
+{
+  "name": "Mark Jayson Austria Portfolio",
+  "short_name": "Mark Austria",
+  "description": "Portfolio of Mark Jayson Austria, Full-Stack Software Engineer.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f8fb",
+  "theme_color": "#0b1526",
+  "icons": [
+    {
+      "src": "assets/img/mark-austria-logo.png",
+      "sizes": "any",
+      "type": "image/png"
+    }
+  ]
+}
